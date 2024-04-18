@@ -18,7 +18,7 @@
 ![plot](./diagrams/arquitetura_atual.jpeg)
 
 
-## O OBJETIVO
+## 🎲 O OBJETIVO
 <p align="justify">O objetivo é que a aplicação tenha alta disponibilidade e escalabilidade com o menor custo possível, cumprindo os pilares do Well Architect framework da AWS.</p>
 
 ## DESCRIÇÃO TÉCNICA
@@ -42,6 +42,32 @@ Banco de dados SQLServer</p>
 - Demonstração
 - Deploy
 
+## 📝 ADMINISTRACAO DO PROJETO
+O projeto foi dividido em tarefas bem definidas. Usamos o Kanban no Jira e o discord para comunicacao e reunioes
+## 📝 O PROJETO
+O projeto foi 
+## 🛠 AS TECNOLOGIAS
+As seguintes tecnologias foram usadas na construção do projeto:
+- Terraform
+- Asp .Net Core 7
+- Sql Server
+- Docker
+- AWS
+  -- Outras: Rout53, Load Balancing, AutoScalling, Code Build, Co
+
+## ✅ CONTRIBUIDORES
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/victor-cleber/?locale=en_US"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/13708226?v=4" width="100px;" alt=""/><br /><sub><b>Victor Cleber</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/victor-cleber/?locale=en_US"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/13708226?v=4" width="100px;" alt=""/><br /><sub><b>Victor Cleber</b></sub></a><br /></td>
+
+  </tr>
+  <tr>
+     <td align="center"><a href="https://www.linkedin.com/in/victor-cleber/?locale=en_US"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/13708226?v=4" width="100px;" alt=""/><br /><sub><b>Victor Cleber</b></sub></a><br /></td>
+      <td align="center"><a href="https://www.linkedin.com/in/victor-cleber/?locale=en_US"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/13708226?v=4" width="100px;" alt=""/><br /><sub><b>Victor Cleber</b></sub></a><br /></td>
+  </tr>
+</table>
 
 Happy project 😊
 
