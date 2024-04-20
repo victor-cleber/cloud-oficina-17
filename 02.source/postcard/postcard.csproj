@@ -9,6 +9,7 @@
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
   <ItemGroup>
+    <PackageReference Include="AWSSDK.SimpleSystemsManagement" Version="3.7.303.26" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
     <PackageReference Include="AWSSDK.S3" Version="3.7.103.50" />
   </ItemGroup>
